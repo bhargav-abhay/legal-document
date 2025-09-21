@@ -1,0 +1,11 @@
+# Node.js dependencies
+node_modules/
+
+# Local development files
+.env
+service-account-key.json
+uploads/
+
+# Configuration files that are not needed on the server
+app.yaml
+.gcloudignore
